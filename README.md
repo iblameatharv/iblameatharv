@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Atharv @iblameatharv
-- 👀 I’m interested in System Designing ,  DSA
-- 🌱 I’m currently learning C The Programming Language
+- 👀 Python and WebDev
+- 🌱 16
+  
 - 😄 Pronouns: He/Him
 
 
