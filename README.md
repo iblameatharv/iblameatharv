@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Atharv @iblameatharv
-- 👀 Python and WebDev
-- 🌱 16
-  
-- 😄 Pronouns: He/Him
+"i like to code!.like alot"
 
 
 <!---
